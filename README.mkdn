@@ -13,7 +13,7 @@ familiar with [Repo](https://source.android.com/source/using-repo.html) and [Ver
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/ResurrectionRemix/platform_manifest.git -b ten
+repo init -u https://github.com/RJamieHoSzeYui/rr-mainifest.git -b ten
 
 # Sync
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
