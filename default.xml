@@ -14,7 +14,7 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
-           revision="refs/tags/android-10.0.0_r11" />
+           revision="refs/tags/android-10.0.0_r40" />
 
   <default revision="refs/heads/lineage-17.0"
            remote="github"
@@ -22,8 +22,8 @@
            sync-j="4" />
 
   <remote  name="rr"
-           fetch="https://github.com/ResurrectionRemix"
-           revision="ten"
+           fetch="https://github.com/BrianTestShit"
+           revision="Q"
 	   review="gerrit.resurrectionremix.com" />
 
   <remote  name="rr-d"
